@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, MainActivity!</string>
+	<string name="editInfo">Edit your information </string>
+	<string name="addProduct">Add a product</string>
+	<string name="editProduct">Edit a product</string>
+	<string name="removeProduct">Remove a product</string>
     <string name="app_name">CraftersOnline</string>
 
 </resources>
